@@ -9,4 +9,5 @@ public class SimpleChatRoomSpringBootWebsocketApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SimpleChatRoomSpringBootWebsocketApplication.class, args);
 	}
+	//
 }
